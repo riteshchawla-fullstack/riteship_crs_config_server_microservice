@@ -16,3 +16,12 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+/target/classes/application.properties
+/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/target/classes/com/riteship/crs/config/server/microservice/RiteShipCrsConfigServerMicroServiceApplication.class
+/target/test-classes/com/riteship/crs/config/server/microservice/RiteShipCrsConfigServerMicroServiceApplicationTests.class
+/target/classes/com/riteship/crs/config/server/microservice/ServletInitializer.class
+/target/test-classes/com/riteship/crs/config/server/microservice/TestRiteShipCrsConfigServerMicroServiceApplication.class
