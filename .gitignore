@@ -25,3 +25,4 @@ bin-release/
 /target/test-classes/com/riteship/crs/config/server/microservice/RiteShipCrsConfigServerMicroServiceApplicationTests.class
 /target/classes/com/riteship/crs/config/server/microservice/ServletInitializer.class
 /target/test-classes/com/riteship/crs/config/server/microservice/TestRiteShipCrsConfigServerMicroServiceApplication.class
+/target/
